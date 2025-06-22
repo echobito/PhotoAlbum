@@ -1,2 +1,2 @@
-# Qt-
+# Qt PhotoAlbum
 Qt/qmake
